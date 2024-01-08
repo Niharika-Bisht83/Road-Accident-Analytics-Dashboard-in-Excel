@@ -26,7 +26,7 @@ Welcome to the Road Accident Analytics Dashboard, a captivating exploration of v
 
 ## Key Insights
 The journey unfolds into impactful insights, unveiling:
-- ✅ A staggering total of 410,210 casualties post-accidents.
+ ✅ A staggering total of 410,210 casualties post-accidents.
 - ✅ Car accidents contributing a substantial 80% to the overall casualties.
 - ✅ Peaks in casualties during November 2021 and 2022, with troughs in February 2021 and January 2022.
 - ✅ Single Carriageway road types emerging as hotspots with the highest casualties.
