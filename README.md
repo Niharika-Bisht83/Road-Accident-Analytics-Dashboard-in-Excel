@@ -3,8 +3,7 @@
 ## Project Overview
 Welcome to the Road Accident Analytics Dashboard, a captivating exploration of vital insights derived from road accident data for the years 2021 and 2022. This project encompasses a comprehensive journey, encompassing requirement gathering, meticulous data cleaning, robust data processing, and insightful visualization techniques, all converging into an engaging dashboard meticulously crafted using Excel.
 
-## Requirements and KPIs
-### Needs of the Project:
+## Requirements of the Project:
 - 📌 The clients envisioned a detailed road accident dashboard spanning 2021 and 2022, seeking profound insights into accident dynamics.
 
 ### Key Performance Indicators (KPIs):
@@ -17,13 +16,13 @@ Welcome to the Road Accident Analytics Dashboard, a captivating exploration of v
 - 📌 Exploration of the relationship between Casualties by Area/Location & by Day/Night
 
 ## Process Involved
-1. *Requirement Gathering from Client:* Immerse in understanding client expectations, delineating project scope and objectives.
-2. *Identify Stakeholders of the Project:* Acknowledge and involve key contributors to ensure project success.
-3. *Data Cleaning:* Meticulously eliminate inconsistencies, errors, and duplicates to fortify data accuracy.
-4. *Data Processing:* Intelligently create custom columns to extract and organize meaningful insights.
-5. *Data Analysis:* Leverage diverse statistical methods to derive profound insights from the dataset.
-6. *Data Visualization:* Harness the power of Excel to craft visually appealing charts, graphs, and interactive visuals.
-7. *Dashboard Creation:* Seamlessly weave together all components into an end-to-end dashboard, incorporating slicers and timelines for enhanced user interaction.
+1. Requirement Gathering from Client: Immerse in understanding client expectations, delineating project scope and objectives.
+2. Identify Stakeholders of the Project: Acknowledge and involve key contributors to ensure project success.
+3. Data Cleaning: Meticulously eliminate inconsistencies, errors, and duplicates to fortify data accuracy.
+4. Data Processing: Intelligently create custom columns to extract and organize meaningful insights.
+5. Data Analysis: Leverage diverse statistical methods to derive profound insights from the dataset.
+6. Data Visualization: Harness the power of Excel to craft visually appealing charts, graphs, and interactive visuals.
+7. Dashboard Creation: Seamlessly weave together all components into an end-to-end dashboard, incorporating slicers and timelines for enhanced user interaction.
 
 ## Key Insights
 The journey unfolds into impactful insights, unveiling:
